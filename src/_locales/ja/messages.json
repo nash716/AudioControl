@@ -1,0 +1,29 @@
+{
+	"extName": {
+		"message": "Audio Control"
+	},
+	"extDescription": {
+		"message": "音声の流れているタブのミュートなどの操作が可能な Chrome 拡張機能です。"
+	},
+
+	"unmuteAll": {
+		"message": "ミュート解除"
+	},
+	"muteAll": {
+		"message": "すべてミュート"
+	},
+	"muteOther": {
+		"message": "他タブをミュート"
+	},
+
+	"noAudibleTabs": {
+		"message": "音声の流れているタブはありません。"
+	},
+
+	"doMute": {
+		"message": "≫ ミュート"
+	},
+	"doUnmute": {
+		"message": "≫ ミュート解除"
+	}
+}
